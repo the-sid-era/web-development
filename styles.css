@@ -1,0 +1,143 @@
+#title{background-color:#FF3D68;
+color:#fff;}
+
+h1
+{font-family: 'Stick No Bills',solid;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "montserrat-bold";
+  line-height: 3.5rem;
+  font-size: 3rem;
+}
+h3{
+  font-family: 'montserrat';
+
+  }
+
+p{
+  color: #8f8f8f;
+}
+.style1{
+  color: #fff;
+}
+
+
+.container-fluid
+{
+  padding:3% 15% 6% 15%;
+}
+
+Body{
+  font-family: "montserrat";
+}
+
+/* Navigaton bar */
+
+.navbar{
+  padding-bottom: 4.5rem;
+}
+.navbar-nav{
+  margin-left: auto;
+}
+
+.navbar-brand{
+  font-family:"ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+  color:#000;
+}
+
+.nav-item{
+  padding:0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: "montserrat-light"
+}
+
+/* DOWNLOAD BUTTON */
+.Download-button{
+ margin:5% 3% 5% 0;
+}
+
+/* TITLE IMAGE */
+.title-image{
+  width:25%;
+  height: 85%;
+  transform:rotate(23deg);
+  position:absolute;
+  /* z-index: 1; */
+   right:22%;
+ }
+
+
+  /* FEATURES */
+
+  #features{
+    padding:7% 10%;
+    background-color: #fff;
+    position: relative;
+    /* z-index:1; */
+  }
+
+  .feature-box{
+    text-align: center;
+    padding:5%;
+    }
+
+/* ICONS */
+.icon{
+  color: #EB6383;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color:#ff4c68;
+}
+
+/* TESTIMONIAL SECTION */
+
+#testimonials{
+
+  text-align:center;
+  background-color: #ff4c68;
+  color:#fff;
+}
+.carousel-item{
+  padding:7% 15%;
+}
+
+.testi-image{
+  border-radius:100%;
+  height:150px;
+  width:140px;
+}
+
+#press{
+  background-color: #fff;
+}
+.press-image{
+padding:2rem 2rem;
+margin:3rem 0;
+width:300px;
+
+  }
+
+#pricing{
+  text-align: center;
+margin:1rem 4rem;
+  padding:100px;
+}
+ .pricing-column{
+  /* margin:2rem 0.1rem; */
+  padding:1rem 1rem;
+}
+
+.space{
+  padding:3rem 0 3rem 0;
+}
+/* BUTTON */
